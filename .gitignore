@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+music/
+.env
+cogs/utils/mute.py
+cogs/utils/unmute.py
+dist/
+build/
+
