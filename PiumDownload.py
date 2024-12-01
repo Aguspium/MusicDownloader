@@ -9,8 +9,8 @@ import time
 
 pygame.init()
 
-window_width = 700
-window_height = 700
+window_width = 550
+window_height = 550
 screen = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("YouTube Video Downloader")
 
